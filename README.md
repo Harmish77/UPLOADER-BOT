@@ -26,7 +26,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/python
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Clinton-Abraham/UPLOADER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Harmish77/UPLOADER-BOT)
 
 
 ## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/YIYSby2PcfU)
@@ -34,7 +34,7 @@ heroku/python
 
 ## 🚸 HEROKU CLI COMMANDS
 
-`* git clone https://github.com/Clinton-Abraham/UPLOADER-BOT.git`
+`* git clone https://github.com/Harmish77/UPLOADER-BOT.git`
 
 `* heroku login`
 
